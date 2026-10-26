@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982277209011",
+    "project_id": "readingtracker-93376",
+    "storage_bucket": "readingtracker-93376.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982277209011:android:fb65a41645f3f77614e9c6",
+        "android_client_info": {
+          "package_name": "com.udb.readingtracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkN5PfrHHc4SaiJ0HE2sgAC0RQ_vFTHBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
